@@ -1,6 +1,6 @@
 ### My Name is Sierra 👋
 
-I am a Data Scientist at the Children’s Mercy Research Institute. I use data science methods to answer challenging pediatric research questions. I have a background in medical informatics programming, data integration and data analysis. I'm also a first year PhD student in Health Informatics at the MU Institute for Data Science and Informatics.
+I am a Data Scientist at the Children’s Mercy Research Institute. I use data science methods to answer challenging research questions. I have a background in medical informatics programming, data integration and data analysis. I'm also learning how web3 can help solve interesting problems. Outside of work, I love to spend time with my family. Feel free to contact me to connect.
 
 - 📫 How to reach me: ssdavis@cmh.edu
 
