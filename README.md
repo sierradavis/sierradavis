@@ -1,6 +1,6 @@
 ### My Name is Sierra 👋
 
-I am a Data Scientist at the Children’s Mercy Research Institute. I use data science methods to answer challenging research questions. I have a background in medical informatics programming, data integration and data analysis. I have several years of experience designing, developing, and owning analyses supporting use cases such as quality improvement, statistical analysis, and research. As a leader, I continuously develop my skills to increase my capabilities to serve my stakeholders and team. 
+Hi! I am a Data Scientist working in the healthcare industry. I currently focus on ML algorithms to help identify meaningful PCP matches for patients. I have a background in medical informatics programming, data integration and data analysis. I have several years of experience designing, developing, and owning analyses supporting use cases such as quality improvement, statistical analysis, and research. As a leader, I continuously develop my skills to increase my capabilities to serve my stakeholders and team.
 
 I am also passionate about supporting initiatives that strive to improve diversity within the data science community. Outside of work, I love to spend time with my family. Feel free to contact me to connect.
 
